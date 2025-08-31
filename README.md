@@ -1,6 +1,10 @@
 # Pebble-QA
 **Petroleum Engineering Benchmarks for LLM Evaluation - Questions and Answers**
 
+<img src="https://github.com/user-attachments/assets/52f8038c-18e6-4496-ac33-f44e24bf3bd0" alt="demo" width="300" height="300">
+
+
+
 AI, particularly Large Language Models (LLMs) are revolutionizing the oil and gas industry (source). While LLMs on average have very good accuracy on answering general questions and on reasoning, their performance on oil and gas domain knowledge have not been evaluated. With 100+ different LLMs nowadays, we want to benchmark different LLMs and identify the top performing LLM on this domain knowledge. 
 
 ## 📱 Data and methodology
