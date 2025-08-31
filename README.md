@@ -1,7 +1,7 @@
 # Pebble-QA
 **Petroleum Engineering Benchmarks for LLM Evaluation - Questions and Answers**
 
-<img src="https://github.com/user-attachments/assets/52f8038c-18e6-4496-ac33-f44e24bf3bd0" alt="demo" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/96f8691b-b110-4d33-a100-2af976cd1810" alt="demo" width="500" height="500">
 
 
 
@@ -14,3 +14,7 @@ AI, particularly Large Language Models (LLMs) are revolutionizing the oil and ga
 Different LLMs that are currently deployed in [Ollama](https://ollama.com/) are used to answer the question and evaluation is carried out based on how many answers are incorrect. Moreover, the evaluation is done per topics of questions. 
 
 ## 🏅 Who are the winners? 
+
+|Model|Parameter size|Score|Time taken to complete (hour)|Answer sheet|
+|:---:|:---:|:---:|:---:|:--:|
+|gpt-oss|20B||2.39|[gpt-oss](https://github.com/yohanesnuwara/Pebble-QA/blob/main/llm_result/gpt-oss_20b_answer.txt)|
